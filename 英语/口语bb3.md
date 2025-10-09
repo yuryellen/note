@@ -1,0 +1,55 @@
+- 生词
+  - keep on (继续)
+  - delighted in (高兴的)
+  - fascinated by (着迷的)
+  - passionate about (热爱的)
+  - enthusiastic about (充满激情的)
+  - fond of (喜欢的)
+  - day to day life (日常生活)
+  - truth (真相)
+  - amused (开心的)
+  - at ease (安心的)
+  - put up with (忍受的)
+  - regularly (经常)
+  - frequently (经常)
+  - sophomore (高中生)
+  - senior 
+  - focusing on (专注于)
+- birthday
+- 
+
+- 句子
+  - doing sth
+  - it is ----for me to
+  - amusing to me (令人着迷的)
+- 假定并非让，强盗（倒）有困，这时它， 差（插） 不（否定）多（多重复合句）叫明白（被）
+- take to sth like a duck to water (把它当做鸭子喂水)
+- all the rage (狂热)
+- when it comes to ----, it's all about ---- (当涉及到----时，全都与----有关)
+- talent (才能)
+- all up in the air (一片混乱)
+- take a gap year (休假)
+- savvy (精明的)
+- know little about (不了解)
+- literate (有文化的)
+- illiterates (文盲)
+- generallyspeaking (一般而言)
+- old people = the elderly (老年人) = senile group = senior citizen (中年人)
+- real eye openers (真正的开眼界人士)
+- broaden your horizons (开阔视野)
+- expand their horizons (扩大视野)
+- widen one‘s vision (扩大视野)
+- expand the scope of knowledges (扩展知识面)
+- i cannot decide it （我不能决定它）
+- it is uncertain thing (不确定的事情)
+- lt is a mystery to me (这对我来说是一个谜)
+- be savvy about (对什么事很了解）
+- prairie (草原)
+- barbecue (烤肉)
+- newily built cbd (新修建的cbd)
+- setback 
+- avoid problems (避开麻烦)
+- disgusting (恶心的)
+- impolite (不礼貌的)
+- disrespect (不尊重的)
+- 

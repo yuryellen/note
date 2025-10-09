@@ -1,0 +1,11 @@
+- 生词
+  - came across (遇到)
+  - brochure (小册子)
+  - instrument (乐器)
+  - Drum (鼓)
+  - pamphlet (小册子)
+  - spoil (弄坏)
+  - address (地址)
+  - northern (北方的)
+  - postcode (邮政编码)
+  - cruise (巡游)

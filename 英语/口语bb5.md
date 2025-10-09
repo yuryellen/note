@@ -1,0 +1,75 @@
+- part 2
+  - people （人类）
+    - who 2 句
+    - what 2-3句
+    - how 1-2句
+    - why - emotions （情感）
+  - place （地方）
+    - 
+  - object （物体）
+  - event （事件）
+  - 人物开头
+    - well the intelligent person i would like to talk about is —————— who———————— I met ——————when i —————— during
+    - well wghen it comes to an intelligent person i know， the first one that occurs to me is —————— who——————————— I met ——————when i —————— during
+    - well， there are many people i konw， but who impresses me most is —————— who——————————— I met ——————when i —————— during
+    - well i’d like to talk about an intelligent person i know， whose name is called   —————— who——————————— I met ——————when i —————— during
+  -  describe a person you dislike at first but changed your mind 14
+
+
+- 生词
+  - unexpect (意外的)
+  - to my superise (让我震惊的是)
+  - change my mind (改变想法）
+  - occupation (职业)
+  - profession (职业)
+  - well-known (著名的)
+  - engineers (工程师)
+  - distinguished (卓越的)
+  - dermatologists (皮肤病医生)
+  - surgeon (外科医生)
+  - physicists (物理学家)
+  - cardiologists (心脏病医生)              
+  - engage in (从事)
+  - fielder (球员)
+  - more than ten thousand (超过一千万)
+  - proficient (熟练的)
+  - opreational (操作的)
+  - exceptional (卓越的)
+  - experts (专家)
+  - specialists (专家)
+  - regarding (关于)
+  - career (职业)
+  - dormitory (宿舍)
+  - jasmine (茉莉花）
+  - lotus (莲花)
+  - cabbage (卷心菜)
+  - strawberry (草莓)
+  - peach (桃子)
+  - nutrition   (营养)
+  - normal life (正常的生活)
+  - vitamin (维生素)
+  - minerals (矿物质)
+  - fragrance    (芳香)
+  - kindergarten (幼儿园)
+  - stone (石头)
+  - far from (远离）
+  - passion (激情)
+  - enthusiastic (热情的)
+  - creative (创造力)
+  - self confident (自信)
+  - mature (成熟的)
+  - mentally (心智上)
+  - punctual (准时) 
+  - cooperate (合作)
+  - courageous (勇敢的)
+  - brave (勇敢的)
+  - considerate (考虑周到的)
+  - optimastic (乐观的)
+  - suffers from (患有)
+  - hardship (艰难)
+  - competitive (竞争的)
+  - independent 
+  - pessimistic (悲观的)
+  - all in all (总而言之)
+- 句子
+  - how （the way i see it）

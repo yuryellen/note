@@ -1,0 +1,32 @@
+- skimming 看段落首部尾部（看概诉性） 找段落之间的逻辑关系
+  - 并列 顺承 递进 转折
+  - 看看是否分层次
+  - 类时间属于节点词
+  - 表负面
+- 逻辑重点
+  - 1 负面陈诉 （强调重要性）
+    - 否定词 ：not can't never dont
+    - 否定前缀 im ex 
+    - * 贬义词 reject（拒绝）deny（否认）not enough（不够）lack of （缺乏）scarcity（稀缺）
+  - 重点形容词
+    - 限定词 （特指强调）focus on （集中精力） 
+    - 最高级， first 
+    - 比较级  more better than 。 as 。。。as（同级比较）
+    - 强调句 i did
+    - 独立动词不定式结构
+  - 类时间性描述
+    - 在原文中进行定位的最佳点 因为他经常在某同一时间进行同义替换 traditionally before after
+    - 
+- tips
+  - lt is （主语从句）
+  - sub （次级）
+  - 填空题 空的前面 或者后面 有表动作的词 那这个词在原文中大概率会出现替换
+- 生词
+  - exclude 排除
+  - monopoly 垄断
+  - smuggled 偷渡
+  - encase 装入
+  - case 箱子
+  - splits into 切分成
+  - b册 124页
+  - b册 110页 9-4-1

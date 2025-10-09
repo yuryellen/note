@@ -1,0 +1,60 @@
+- 生词
+  - cousin (表兄弟)
+  - nieces (姐妹)
+  - brother-in-law (弟弟)
+  - metropolitan (都市的)
+  - attractive   (吸引人的)
+  - vigorous (勇敢的)
+  - be up my neck to (忙于）
+  - be oreiccupied whith (
+  - categories (类别)
+  - so on (其他）
+  - vitamin (维生素)
+  - durable (耐用的)
+  - fashion (时尚)
+  - pattetnt ( 款式）
+  - come down with （ 染上）
+  - doing sth made it possible for me to do sth
+  - bachelor ( 学士）
+  - decade （ 十年）
+  - joy （ 喜悦）
+  - educational instructive （教育性）
+  - alive （活着）
+  - assembly (集体)
+  - peocess (过程)
+  - unwind (放松)
+  - chill out (冷静)
+  - relax (放松)
+  - amuse myself (娱乐自己)
+  - in hight spirit (高尚精神)
+  - add some spice on
+  - musician (音乐家)
+  - arm （怀里）
+  - although her 
+  - passenger (乘客)
+  - disturbed (烦恼的)
+  - try every means to stop crying (尽一切办法阻止哭泣)
+  - deal (处理)
+  - attend university (参加大学)
+  - show around our campus (在校园里走走)
+  - capital city(首都 省会）
+  - curious about (好奇的)
+  - longing to go to (想去)
+  - what the city look like (城市的样子)
+  - the city he has never been to
+  - require (需要)
+  - spring 
+  - schedule (时间表)
+  - neglect (不注意的)
+  - revalation (反思)
+  - long distance bus (长途巴士)
+  
+  - 
+- - idiot
+  - take something like a duck to water 如鱼得水
+  - i always mean what i have said
+  - i thought there were no speaking class.but in fact.
+  - i think it is a good pity.
+  - which gives me a warning that no matter what are we do we should take more careful not to make a mistake.
+
+  - 

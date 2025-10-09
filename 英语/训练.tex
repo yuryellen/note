@@ -1,0 +1,53 @@
+\documentclass[12pt, a4paper, oneside]{ctexart} %引入文章类型
+\usepackage{amsmath, amsthm, amssymb, graphicx} %引入基础包
+\usepackage[bookmarks=true, colorlinks, citecolor=blue, linkcolor=black]{hyperref}
+
+% 导言区
+
+\title{我的第一个LaTeX 文档}
+
+\author{Dylaaan}
+
+\date{\today}
+\newtheorem{theorem}{定理}[section]
+%开始写文章
+\begin{document}
+\maketitle %制作标题
+\tableofcontents %制作目录
+
+\section{第一节}
+
+这里是正文.  你好 我爱哦的话 
+
+\section{第二节}
+\begin{table}[htbp]
+  \centering
+  \caption{表格标题}
+  \begin{tabular}{ccc}
+      1 & 2 & 3 \\
+      4 & 5 & 6 \\
+      7 & 8 & 9
+  \end{tabular}
+\end{table}
+
+\begin{enumerate}
+  \item hwudh 
+  \item 这是第二点;
+  \item 这是第三点. 
+\end{enumerate}
+\begin{theorem}[定理名称]
+  这里是定理的内容. 
+\end{theorem}
+
+$$
+f(x)=\begin{cases}
+    x, & x>0, \\
+    -x, & x\leq 0.
+\end{cases}
+$$
+
+
+
+\setcounter{page}{0}
+
+\end{document}

@@ -1,0 +1,91 @@
+- 听力类型
+- 四项评分标准（写作）
+  - 任务回应
+  - 连贯性 逻辑通顺
+  - 语法 主谓 被动 there be 后置定语
+    - 介词 只能加 n （名词）或者 v+ ing （动词）
+  - 词汇 准确性 多样性
+  - task 1 周表
+  - task 2 议论文
+  - 类型  
+    - 媒体类
+      - television 电视
+      - newspaper 报纸
+      - mobile 手机
+      - short video 短视频
+    - 问题
+      - issue 议题
+        - crime 犯罪
+        - environment 环境
+        - government 政府
+        - a global issue 全球性问题 globalize 全球化
+      - culture 文化
+        - book 书
+        - art 艺术
+        - festival 节日
+        - language 语言
+        - clothing 服装
+  - 写作流程
+    - 背景 引出topic 回应
+    - 优点
+    - 
+- 生词
+  - approach 方式 措施 手段
+  - method 方法 手段
+  - organizational 组织性的
+  - phenomenon 现象
+  - mcdonald's 麦当劳
+  - cuisine 菜肴
+  - custom 习惯
+  - practice 实践
+  - conflict 矛盾
+  - attract 吸引
+  - attack 攻击
+  - distinction 区别
+  - similarity 相似性
+  - extinction 灭绝
+  - artfacts 文物
+  - crafts 手艺
+  - art 艺术
+- 练习
+  - There are many advantage of this issue. For example. It has a advantage of local cuisins. 首先 人们可以在当地品尝到不同国家的菜肴 比如说 人们可以在当地品尝到意大利菜系或者墨西哥菜系 而菜系的丰富 是一个很好的方式去吸引不同国家的游客去来这里旅游 which 对于当地经济的发展有一个好的影响.  
+  - 缺点
+    - 国家差异变小
+      - 语言
+        - global official language 官方语言
+          - own language 自己的语言 mother tongue 母语减少 local dialect 本地方言减少
+            - minority language 少数民族语言减少 甚至灭绝
+      - distinction between countries
+      - similarities between countries
+      - festival 
+        - shared understanding 共享理解
+        - erosion of culture 文化侵蚀
+      - be replace by
+- 雅思高频话题词 分类
+  - globalization 全球化 
+    - issue 议题 
+    - problems
+    - environment 环境
+    - citizens 公民
+    - political 市民
+    - culture 文化
+  - media 媒体
+    - film 电影
+    - tv program 电视节目
+    - advertisement 广告
+    - fashion 服装
+    - brand 品牌
+    - clothing 服装
+    - diet 饮食
+    - festival 节日
+    - language 语言
+  - environmentalism 环境主义
+    - government 政府
+    - technology 科技
+    - population 人口
+    - crime 犯罪
+    - traffic 交通
+    - cultural signs 文化符号
+  - individual 个人
+    - public opinion 公众意见
+   

@@ -1,0 +1,84 @@
+- 生词
+  - monologue 独白
+  - monotonous 单调乏味的
+  - dialogue 对话
+  - influence 影响
+  - flow 奔流
+  - confluence 融合
+  - superfluous 多余的
+  - influx 输入
+  - outflux 输出
+  - influenza 流感
+  - hesitate 犹豫
+  - emotion 心情
+  - speed 速度
+  - intelligence 智力
+  - dog 狗
+  - bark 叫
+  - coherence  连贯性
+  - logically 逻辑上
+  - message 消息
+  - violence 暴力的
+  - fraud 虚假的
+  - inaccurate 不准确的
+  - pornography 色情的
+  - dishonest 诈骗的
+  - disappointment 不满意的
+  - length 长度 详细的
+  - staff 人员
+  - officer 军官
+  - collcation 集合
+  - prolonged 延长
+  - nubile 美少女
+  - put up with 忍受
+  - illiterated 文盲
+  - urban  都市的
+  - is a must 必须的
+  - injure 伤害
+  - catastrophic 灾难性的
+  - aster 星星
+  - distaster 灾难性的
+  - astrology 占星术
+  - astronaut 宇航员
+  - sophisticated 复杂的
+  - soph = wit
+  - philosophy 哲学
+  - sophomore 高中生
+  - synonyms 同义词
+  - solve 解决
+  - handle 处理
+  - tackle 解决
+  - cope with 处理
+  - combat 战斗
+  - inhabitant 居民
+  - lodge 住宅 lodger 住客
+  - 虚拟语气 和事实相反没有实现
+  - with flying colors 大获全胜
+  - contract 合同
+  - disease 染上
+  - tractor 
+  - retract 撤回
+  - tractable 易处理的
+  - attract 吸引
+  - tract 拉
+  - distract 打乱
+  - category 
+  - intonation 音调
+  -  fond 
+  -  competition 竞争
+  - 花
+    - rose
+    - lily
+    - jasmine
+    - 
+  - frag
+  - fresh air
+  - oxygen 氧气
+- tips
+  - 多音节80%都在倒数第三个音节上
+- part 1
+  -  my full name is —— my family\last name is
+  -  my given name is 
+  -  5 w 1 h
+     -  what when why where when who how
+  - 

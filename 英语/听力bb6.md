@@ -1,0 +1,7 @@
+- georage
+- lobby (休闲区)
+- exhibition (展览)
+- display (展示)
+- in front of (在…前面)
+- lobby (休闲区)
+- 

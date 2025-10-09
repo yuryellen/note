@@ -1,0 +1,35 @@
+- 双边讨论
+  - 两种观点 划出观点的关键词 在主体段反复出现
+  - disscuss the two views and give you own opinion
+    - discuss 个人看法加理由
+    - 为什么别人会提出观点
+    - 观点本身的对错
+  - own opinion
+    - 二选一
+    - 二合一
+  - 结构
+    - 二合一
+      - 1. 背景加题目改写
+      - 2. 观点1（对称性讨论）
+      - 3. 观点2 （对称性讨论）
+      - 4. 总结+给出个人观点
+    - 讨论观点1
+      - s1 主旨句：个人看法：
+        - 父母确实有责任教孩子如何成为好的社会成员
+          - 孩子与父母时间长 —— 会模仿父母的行为 —— 长大后 ---例子（遵纪守法 入学前 
+      - s2 这是因为在入学前 孩子大部分时间与父母在一起 所以父母的行为会影响孩子的行为 比如 一个优秀的 社会成员必须最受法规 孩子可以从父母的行为中学会这一品格 当父母一起过马路时 父母会等红绿灯通行 孩子从而可以习得相关的交通规则 并遵守
+          - 总之 父母是孩子的第一任 教师 优秀父母会培养孩子并把孩子培养成对社会有用的人
+    - 讨论观点2
+      - 但是观点2 也是合理的 以为（学校 学一些东） 大部分孩子在上学后
+      - 总结
+        - 我同意
+          - i agree with
+          - i support
+          - i am in form of
+          - i think that the view is resonable
+        - 我不同意
+          - i disagree
+          - i am against
+          - i think ---- is un resonable \ has some flaws
+          - i think that the view can not be examined careflly
+        - 

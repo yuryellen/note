@@ -1,0 +1,92 @@
+- 雅思阅读题型
+  - 填空题
+  - 判断题
+  - 匹配题
+  - 选择题
+- 定位词
+  - 特殊名词（专有名词）
+    - 名词优先
+    - 具体意思的普通名词优先
+    - 后面的题画前面的题没有出过的
+    - 话题词不圈
+  - 特殊符号（引号 书名号 破折号）
+  - 特殊字体（斜体）
+  - 数字（年份）
+- 分类
+  - 同近义词替换
+  - 上下义词替换
+  - 肯否定替换
+  - 词性替换
+  - 语序替换
+  - 句子结构替换
+- tips
+  - ous 形容词
+- 生词
+  - indigenous（当地的）
+  - terms（术语）
+  - indicate（表明）
+  - arithmetic（算数）
+  - survey（调查）
+  - alternative（可替代的）
+  - contact（接触）
+  - prior（优先的）
+  - neural（神经的）
+  - agent（代理人）
+  - application（申请）
+  - launch（创造 发起）
+  - coined（硬币 创造）invent（创造）subject（研究对象）complex（复杂的 建筑群）
+  - conference（会议）
+  - model（模型）
+  - sustenance（食物）
+  - exploiting（开拓）
+  - surviving（生存）
+  - mammals（哺乳动物）
+  - established（建立）
+  - description（描述）
+  - emissions（排放）
+  - route（路线）
+  - entire（整个的）
+  - businessman（商人）
+  - silk（丝绸）
+  - accessible（可获得的）
+  - isolation（孤立）
+  - accompany（陪伴）
+  - maintenance（维持）
+  - failed to（不能做）
+  - measure（措施）
+  - perceived（察觉）
+  - recognize（认出）
+  - acknowledge（承认）、
+  - foundation（建立）
+  - omit（省略）
+  - mathematics（数学）
+  - evidence（证明）
+  - aging（衰老）
+  - longevity（寿命）
+  - optimism（乐观的）
+  - cold freezing（冷）
+  - equtor（赤道）latitude（维度）
+
+- 审题 观点
+- 1. 所有
+- 2 断句 理解 三组关键词 x y z 主语 谓语 宾语
+- 反推 同替
+- 定位 人名
+- 定位注意 
+  - 1 多次出现
+  - 名 姓 可能只出现姓
+  - 带有年份的好定位
+- 典型观点句
+  - believed ： 相信
+  - argued ： 争论
+  - suggested ： 提出
+  - maintained ： 维护
+  - held ： 持有
+  - proposed ： 提议
+  - claimed ： 声称
+  - found ： 发现
+  - reposted  ：转发
+- said 
+- wrote
+- added
+- according 根据

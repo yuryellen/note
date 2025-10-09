@@ -1,0 +1,64 @@
+
+- 生词
+  - general (普通的)
+  - in what way (在哪种方式)
+  - fields and  region (领域和地区)
+  - gather (集合)
+  - contacter (联系人)
+  - contact information (联系信息)
+  - exchange (交换)
+  - honesty (诚实)
+  - loytalty (忠诚)
+  - considerate (考虑)
+  - provide emotional value (提供情感价值)
+  - punctuality (准时)
+  - passionate (热情)
+  - enthusiatic (热心的)
+  - hospitable (热情的)
+  - human natural (人类的本性)
+  - moral quality (道德品质)
+  - views (观点)
+  - longing for (渴望)
+  - sunny (阳光的)
+  - solitary (孤独的)
+  - isolated (孤立的)
+  - unfamiliar (陌生的)
+  - classmate adn school (同学和学校)
+  - fortunate (幸运的)
+  - satisfied (满意的)
+  - expand (扩大)
+  - narrow-minded (狭隘的)
+  - broad minded (宽大的)
+  - broaden their mind (使他们开阔思路)
+  - they could embrace different culture and customs (他们可以融入不同的文化和风俗)
+  - which make there possible to be happy (哪些因素使他们快乐)
+  - amusement park (游乐园)
+  - senile group (老龄化群体)
+  - elderly people (老年人)
+  - quiet park (安静的公园)
+  - physically weak (体弱的)
+  - at risk (有危险)
+  - reduce 
+  - taxpayer (纳税人)
+  - paybills (缴纳账单)
+  - obligation (义务)
+  - coupon (优惠券)
+  - 
+- tip
+  - chatting online
+  - they have never be so isolated 
+- always
+- often
+- usually
+- frequently
+- sometime
+- ocasionally
+- seldom
+- hardly
+- never
+
+- once a week
+- twice a week
+
+- every four year
+- 

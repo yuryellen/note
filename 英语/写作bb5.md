@@ -1,0 +1,78 @@
+
+
+  - 健康问题
+- 问题
+  -  健康问题很受关注 + 写一些人说措施有用 其他人说措施没用 + 我的观点是 尽管建立设施非常有用 但是其他的政策同样有用
+  - 第一段 设立健康设施是非常有利于健康的 通过设立它 人们能更加方便进行体育锻炼。从而提高人们锻炼身体的积极性 提高人们身体健康 而且 设立健康设施可以帮助人们更好的进行体育锻炼。 很多健康设施更加专业可以帮助们提人们锻炼平时锻炼不到的部位。这样可以更好的帮助人高健康水平
+  -   第二段 同样的 也有很多其他的措施去提高公众健康水平 比如说 政府可以举办一些活动 去鼓励人们进行锻炼 这对于一些平时没有锻炼积极性的人非常有效。可以更好提高它们的健康水平。 另外 政府可以做一些健康饮食方面的宣传工作。帮助人们更好的进行健康饮食 这样可以更好的保障人们的身体健康。 这样的措施可以帮助人们更好的提高健康水平。
+-   总之 设置设施 有效 + 其他方面 + 同样有效 人们不应该 + 锻炼身体 + 同时应该 + 健康饮食。
+-   政府
+    -   开展讲座
+    -   资助研究
+    -   举办活动
+    -   宣传
+    -   建立基础设施
+-  健康
+   -  饮食 dishes
+   -  锻炼身体 physical exercise
+   -  作息 schedule
+   -  心理 mental health
+- 个人
+  - 坚持锻炼 keep physical exercise
+  - 多种方式锻炼 
+  - 健康饮食 nutritious food
+  - 保持心理健康 mental health
+    - 定期去心理咨询 psychological therapy
+    - 寻求朋友和家人的帮助 friend and family support
+    - 
+  - 积极参加 
+- 开头段
+  - 健康问题 \ serious 很重要
+    - a 方 best way + sport
+    - i agree with the view that.however 
+    - b 方 other measure 
+  - 第一段
+    - it is undenied that + 运动 （sport） + 促进+ 健康改善 
+    - for example + 通过 建立场地+ 提升兴趣 + 因为有更多的选择 + 改变久坐不动生活方式+ 促进健康
+  - 第二段
+    - 然而 + 这对一些人无效（没有足够时间 沉迷于虚拟世界） + 所以与局限性 + 需要更多措施改善+  
+      - 提出其他措施 
+        - 定期去心理咨询 寻求朋友和家人的帮助 保持心理健康
+          - psychological therapy friend and family support mental health 
+        - 尝试自己学习制作健康食物 保持饮食健康
+          - try to create healthy foods to maintain healthy diet
+        - 政府宣传 设立讲座 提高健康意识
+          - the government should promote the importance of health and provide resources to help people improve their health
+        - 保护环境 改善空气质量和水质 降低人们的生病风险 
+          - protect the environment improve air quality and water quality reduce the risk of disease
+        - 政府设置卫生系统 保障人们的健康
+          - the government should set up a health system to ensure the safety and well-being of people
+  - Nowsday, there are huge concerns about the human's health problem. There is no doubt that people should take more aware of this issue which is very serious. One point of view is that the best way to improve the human's health is doing sports.However, I agree with the view that sport could not suitable for anyone. It is more suitable for more people if there have many other measure for keeping healthy to choice.
+
+  - It is undenied that encourage people doing sports have a positive effect on the human's health. For example by constructing sports facilities, such as gymnasium, swimming pool, and tennis court. It can promote people's interest in sports. They could have more choices to doing excerise,which is benficial for their physical health. 
+
+  - However, these is no suitable for everyone. Which means there are some people who have no time for doing sports. Also many people are into virtual world. So this measure has its own limitation. It is necessary to provide more measures to improve the human's health. One possible solution for those people is to provide psychological therapy and find friend and family support for keeping there mental health. Plus, Healthy diet is another key element for keeping healthy. So maintaining a healthy diet must be took into account. Trying to learn how to create healthy foods can help this point. Also, the government should do something for the citizen. Setting up a health system, protecting the environment to improve air quality and water quality. these can help to reduce the risk of disease, thus ensure the human's health.
+      - （第一段）健康下降 + 人们关注如何解决 + 一个方法 + 设立设施
+      - 
+      - （第二段） 支持者认为  对于久坐不动工作与学习 + 是更容易到达的方式+ 可以增加选择性 迎合兴趣+ 促进积极性
+      - （第三段）然而 更好的办法 额外设施的局限性 指吸引特定人 
+      - （第四段）高税收 + 烟草 高脂肪 酒精 + 过度消费（Control excessive consumption）+ 导致健康问题 
+        - 增加公共交通便利 减少开车时间 增加步行时间 + 促进健康
+      - （第五段）总结
+
+- 生词 
+  - field 场地
+  - courts 场地
+  - virual world 虚拟世界
+  - food securities 健康食品
+  - dress problem 解决问题
+  - 
+- 句子
+  -  Advocates of this believe that 支持者认为
+  -  One possible solution to 一个可能的解决方案是
+  -  easy-to-reach 容易接近的
+  -   a regular part of 健康生活的一部分
+  -   The variety of sports activities 各种运动活动
+  -    too narrow an approach 过于狭隘的做法
+-    
+

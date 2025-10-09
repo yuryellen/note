@@ -1,0 +1,74 @@
+- 生词
+    - appealing : 吸引人的
+    - ancient : 古代的
+    - Greek : 希腊的
+    - greece : 希腊
+    - practised : 熟练的
+    - access : 接近
+    - publication : 出版物
+    - despite : 尽管
+    - intend : 想要
+    - by way of ： 借助
+    - unshakable : 无法摆脱的
+    - virtue : 美德
+    - virtual : 虚拟的
+    - in turn : 顺着
+    - lay : 躺
+    - destruction : 毁灭
+    - jealousy : 嫉妒
+    - consensus : 共识
+    - conscious : 意识
+    - control : 控制
+    - external : 外部的
+    - internal : 内部的
+    - extroverted : 外向的
+    - introverted : 内向的
+    - events : 事件
+    - regarding : 关于
+    -  define : 定义 
+    -  consoling : 安慰的
+    - setback : 挫折
+    - obstacles : 障碍
+    - relevant : 相关的
+    - brilliant insight : 辉煌的洞察力
+    - root   : 根
+    - branch : 分支
+    - stem   : 茎
+    - leaf   : 叶
+    - fruit  : 果实
+    - bud    : 苗
+    - seed   : 种子
+    - life time : 生命期
+    - master : 领袖
+    - resonate : 共鸣
+    - wit： 才智
+    - fame： 名声
+    - resonate : 共鸣
+    - conversation : 谈话
+    - parking : 停车
+    - coal : 煤
+    - wood : 木材
+    - bridge : 桥
+    - monument : 纪念碑
+    - cottage  : 小屋
+    - budget : 预算的
+    - convert into : 转化为
+    - potted : 盆栽的
+    - opposite : 对立的
+    - milestone : 里程碑
+    - monumentary : 纪念碑式的
+    - deposit : 存款
+    - secure : 保险
+    - percent : 百分比
+    - ensure : 确保
+    - guarantee : 保证
+    - pitch : 场地 
+    - skateboard : 滑板
+    - ramp : 斜坡
+    - pavilion : 亭子
+    - notice boaed ：告示板
+    - tram : 电车
+    - metro : 地铁
+    - work out ： 解决
+    - vehicles : 车辆
+    - potholes : 坑 洞

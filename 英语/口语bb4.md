@@ -1,0 +1,52 @@
+- 句子
+  - get rid of sth (把…弄掉)
+  - 一般现在时 at times\regularly\
+  - 一般过去时 used to \but now\was
+  - 一般将来时 will\should\
+  - 现在完成时 finished\
+  - 现在进行时 is going on\
+- 生词
+  - 心情
+    - element (元素)
+    - weep (哭)
+    - lung (肺)
+    - joy (喜悦)
+    - sorrow (悲伤)
+    - fright (恐惧)
+    - overthinking (过度思考)
+    - anger (愤怒)
+    - dopamine (多巴胺)
+    - endophin (内皮)
+    - make me relax\enjoy\entertain (使我放松\享受\娱乐)
+    - relieve (解除)
+    - reduce stress (减轻压力)
+    - free form some diseases (解除某些疾病的自由)
+    - mental health (精神健康) 
+    - anxious (焦虑)
+    - Sunscreen exposure (太阳保护膜)
+    - elegant (优雅的)
+    - heavy pressure (重压)
+    - chill out (冷静下来)
+    - fairy tale (童话故事)
+    - foot-bathing (脚泡) 
+    - coordination (协调)
+    - trip (旅行)
+    - chatting (聊天)
+    - reading (阅读)
+    - meditation (冥想)
+  - attractive (吸引人的) \ fascinating (着迷的)\ temping (诱人的)\fantastic (不可思议的)\extroding (异想天开的)\
+  - fragrance (芳香)
+  - logo (标识)
+  - portrait (肖像)
+  - celebrities (名人)
+  - inmermoey of trait (纪念功绩）
+  - gnerate (产生)
+  - wealthly (富裕的)
+  - guess (推测)
+  - vanity (虚荣)
+  - mild (温和的)
+  - humid (湿润的)
+  - moist (潮湿的)
+  - burn midnight oil (熬夜）
+  - fidding (嘱托)
+  - 
