@@ -13,7 +13,7 @@
   - regularly (经常)
   - frequently (经常)
   - sophomore (高中生)
-  - senior 
+  - senior （高年级）
   - focusing on (专注于)
 - birthday
 - 
